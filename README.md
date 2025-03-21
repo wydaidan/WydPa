@@ -5,9 +5,6 @@
 
 <h2 align="center"> Z-Kit is an almost fully unblockable proxy suite.</h2>
 
-> [!IMPORTANT]  
-> If you like my website, or use code from it for your own project, consider giving it a star! :3
-
 ## Features
 ```
 ├── Clean UI
@@ -20,14 +17,5 @@
 │   └── GeForce NOW
 └── Proxy
     └── Ultraviolet
-```
-
-## Contributors
-Massive thanks to the following people for contributing to Z-Kit!
-
-<a href="https://github.com/z-kit-team/z-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=z-kit-team/z-kit" />
-</a>
-
-## Keywords (ignore)
+``
 securly, goguardian, cisco umbrella, relay, unblocker, proxy, unblocked games, bypass, school blocker, unblocked, chromebook
