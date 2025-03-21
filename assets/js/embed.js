@@ -38,14 +38,14 @@ registerSW()
 "use strict";
 
 const embedDirectly = [
-  "now.gg.zkit.above.gay",
+  "wydpa.fun.org",
   "extprint3r.github.io",
   "ext-remover.net",
   "e.widgetbot.io"
 ];
 
 const embedAlternative = {
-  "now.gg": "https://now.gg.zkit.above.gay/hub"
+  "now.gg": "wydpa.fun.org"
 };
 
 let destination = "";
